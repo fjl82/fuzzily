@@ -24,3 +24,6 @@ tmp
 # Bundler
 .bundle
 vendor/bundle
+
+.idea
+*.iml
